@@ -1,0 +1,14 @@
+{
+    "name": "diabetes-prediction",
+    "version": "1.0.0",
+    "description": "Diabetes prediction using an SVM model with Flask backend and HTML/CSS frontend",
+    "main": "public/index.html",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
